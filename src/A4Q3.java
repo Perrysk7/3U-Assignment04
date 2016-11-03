@@ -32,25 +32,7 @@ public class A4Q3 {
         double four = input.nextDouble(); 
         
         // display all the numbers in the same row 
-        System.out.println("your numbers are" + one + "," + two + "," + three + "," + four);
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        System.out.println("your numbers are " + one + ", " + two + ", " + three + ", " + four);
+   
     }
 }
